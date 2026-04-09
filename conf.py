@@ -9,7 +9,7 @@ project = 'Project'
 author = 'Author'
 
 # -- General configuration ---------------------------------------------------
-
+templates_path = ['templates']
 extensions = [
     'myst_parser',  # to support Markdown files
 ]
