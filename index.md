@@ -1,5 +1,11 @@
 # $2400 Extra Benefits for Seniors in the USA (2026 Guide)
 
+<div style="text-align:center; margin:20px 0;">
+  <a href="#" style="background:#2563eb; color:#fff; padding:12px 25px; text-decoration:none; border-radius:6px; font-weight:bold;">
+    Check Your Eligibility
+  </a>
+</div>
+
 ## Introduction
 
 In 2026, many seniors in the United States are searching for ways to maximize their income and reduce financial stress. One of the most talked-about topics right now is the **$2400 extra benefits for seniors**. Whether you’re already receiving Social Security or planning to apply soon, understanding these benefits can help you secure a more stable financial future.
