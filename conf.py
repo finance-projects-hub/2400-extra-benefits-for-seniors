@@ -39,6 +39,10 @@ html_title = "My Custom Page"
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'sphinx_rtd_theme'
+
+html_sidebars = {
+    '**': ['globaltoc.html']
+}
 html_title = "$2400 Extra Benefits for Seniors (2026 Guide)"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
