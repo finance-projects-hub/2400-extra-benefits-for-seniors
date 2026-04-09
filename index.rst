@@ -1,2 +1,8 @@
-.. include:: index.md
-   :parser: myst_parser.sphinx_
+Welcome
+=======
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   index_md
