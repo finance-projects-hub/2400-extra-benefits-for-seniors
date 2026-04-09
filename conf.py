@@ -28,7 +28,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # -- Options for HTML output -------------------------------------------------
 
-html_theme = 'alabaster'
+html_theme = "sphinx_rtd_theme"
 html_title = "Install TurboTax With License Code (2026): Desktop, Windows & Canada Step-by-Step Guide"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
