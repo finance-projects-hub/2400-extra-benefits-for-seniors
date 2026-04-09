@@ -1,7 +1,16 @@
 # $2400 Extra Benefits for Seniors in the USA (2026 Guide)
 
-<div style="text-align:center; margin:20px 0;">
-  <a href="#" style="background:#2563eb; color:#fff; padding:12px 25px; text-decoration:none; border-radius:6px; font-weight:bold;">
+<div style="display:flex; justify-content:center; margin:25px 0;">
+  <a href="#" style="
+    display:inline-block;
+    background-color:#007BFF;
+    color:white !important;
+    padding:14px 28px;
+    font-size:16px;
+    font-weight:600;
+    border-radius:8px;
+    text-decoration:none;
+  ">
     Check Your Eligibility
   </a>
 </div>
