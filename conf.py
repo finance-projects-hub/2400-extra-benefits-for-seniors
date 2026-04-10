@@ -8,9 +8,7 @@ author = 'Author'
 
 # -- General configuration ---------------------------------------------------
 
-extensions = [
-    'myst_parser',   # Markdown support
-]
+extensions = ['myst_parser']
 
 # 👇 IMPORTANT (Markdown properly render karega)
 myst_enable_extensions = [
